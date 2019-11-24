@@ -11,14 +11,18 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "login-page.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.musepolyfill.bgsize.js", "recipe-page-risotto.css"], "outOfDate":[]};
 </script>
   
-  <title>Login Page</title>
+  <title>Recipe Page risotto</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-wzorcowa.css?crc=3903612603"/>
-  <link rel="stylesheet" type="text/css" href="css/login-page.css?crc=4095281216" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/recipe-page-risotto.css?crc=284134387" id="pagesheet"/>
+  <!-- JS includes -->
+  <!--[if lt IE 9]>
+  <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
+  <![endif]-->
    </head>
  <body>
 
@@ -33,8 +37,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
        <div class="clearfix grpelem" id="pu405"><!-- column -->
         <div class="clearfix colelem" id="u405"><!-- group -->
-         <a class="nonblock nontext MuseLinkActive grpelem" id="u275" href="login-page.html"><!-- state-based BG images --><div id="u275_states"><img alt="Login" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
-         <a class="nonblock nontext MuseLinkActive grpelem" id="u281" href="login-page.html"><!-- simple frame --></a>
+         <a class="nonblock nontext grpelem" id="u275" href="login-page.html"><!-- state-based BG images --><div id="u275_states"><img alt="Login" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
+         <a class="nonblock nontext grpelem" id="u281" href="login-page.html"><!-- simple frame --></a>
         </div>
         <div class="clearfix colelem" id="u408"><!-- group -->
          <a class="nonblock nontext grpelem" id="u278" href="register-page.html"><!-- state-based BG images --><div id="u278_states"><img alt="REgister" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
@@ -44,13 +48,52 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
-    <img class="colelem" id="u438-10" alt="Welcome Back, We Missed You!" src="images/u438-10.png?crc=4151822248" data-image-width="437"/><!-- rasterized frame -->
-    <div class="colelem" id="u1623" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-    <div class="colelem" id="u1629" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-    <a class="nonblock nontext Button clearfix colelem" id="buttonu1632" href="profile-page.html" data-visibility="changed" style="visibility:hidden" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- container box --><div class="grpelem" id="u1633"><!-- state-based BG images --><img alt="Login" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
-    <a class="nonblock nontext Button clearfix colelem" id="buttonu1638" href="register-page.html" data-visibility="changed" style="visibility:hidden" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- container box --><div class="grpelem" id="u1639"><!-- state-based BG images --><img alt="Register" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
+    <div class="museBGSize colelem" id="u1458"><!-- simple frame --></div>
+    <img class="colelem" id="u1477-4" alt="Creamy Carrot Risotto" src="images/u1477-4.png?crc=247842502" data-image-width="458"/><!-- rasterized frame -->
+    <div class="clearfix colelem" id="pppu1480"><!-- group -->
+     <div class="clearfix grpelem" id="ppu1480"><!-- column -->
+      <div class="clearfix colelem" id="pu1480"><!-- group -->
+       <div class="clearfix grpelem" id="u1480"><!-- group -->
+        <img class="grpelem" id="u1493-4" alt="Dinner" src="images/u1493-4.png?crc=4225746100" data-image-width="209"/><!-- rasterized frame -->
+       </div>
+       <div class="clearfix grpelem" id="u1487"><!-- group -->
+        <img class="grpelem" id="u1496-4" alt="Vegetarian" src="images/u1496-4.png?crc=3983658581" data-image-width="210"/><!-- rasterized frame -->
+       </div>
+      </div>
+      <div class="clearfix colelem" id="u1611-10"><!-- content -->
+       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+       <p>&nbsp;</p>
+       <p>1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+       <p>&nbsp;</p>
+       <p>2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+      </div>
+     </div>
+     <div class="clearfix grpelem" id="pu1599"><!-- column -->
+      <div class="clearfix colelem" id="u1599"><!-- group -->
+       <div class="clearfix grpelem" id="pu1602-4"><!-- column -->
+        <img class="colelem" id="u1602-4" alt="Ingridients" src="images/u1602-4.png?crc=4240203004" data-image-width="205"/><!-- rasterized frame -->
+        <div class="clearfix colelem" id="u1605-11"><!-- content -->
+         <p>1/2 lorem</p>
+         <p>5 ipsum dolor</p>
+         <p>1sit amet</p>
+         <p>1 consectetur</p>
+         <p>&nbsp;</p>
+        </div>
+       </div>
+       <div class="clearfix grpelem" id="u1608-10"><!-- content -->
+        <p>1 adipiscng</p>
+        <p>3/4 elit</p>
+        <p>1 sed do eiusmod</p>
+        <p>3 tempor</p>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="u1620-4"><!-- content -->
+       <p>3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+      </div>
+     </div>
+    </div>
    </div>
-   <div class="verticalspacer" data-offset-top="428" data-content-above-spacer="427" data-content-below-spacer="23" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="639" data-content-above-spacer="639" data-content-below-spacer="22" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    <div class="browser_width grpelem" id="u399-bw">
     <div id="u399"><!-- group -->
      <div class="clearfix" id="u399_align_to_page">
@@ -63,8 +106,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <img class="preload" src="images/u263_states-r.png?crc=511086386" alt=""/>
    <img class="preload" src="images/u275_states-r.png?crc=4247231528" alt=""/>
    <img class="preload" src="images/u278_states-r.png?crc=3814418695" alt=""/>
-   <img class="preload" src="images/u1633-r.png?crc=370789397" alt=""/>
-   <img class="preload" src="images/u1639-r.png?crc=4030736828" alt=""/>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -77,7 +118,7 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Brak niektórych plików na serwerze lub niektóre pliki na serwerze są nieprawidłowe. Wyczyść pamięć podręczną przeglądarki i spróbuj ponownie. Jeśli problem nie zniknie, skontaktuj się z autorem witryny.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musepolyfill.bgsize"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
