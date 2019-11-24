@@ -1,0 +1,108 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://paulinaguzdziol.github.io/FancyEats" resolutions="1x" timestamp="1574611684701">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-wzorcowa.css" crc="3812804220" ref="login-page:search-results-page:profile-page:index:register-page"/>
+    <file name="login-page.css" crc="355178171" ref="login-page"/>
+    <file name="search-results-page.css" crc="187737657" ref="search-results-page"/>
+    <file name="profile-page.css" crc="265204490" ref="profile-page"/>
+    <file name="index.css" crc="26818534" ref="index"/>
+    <file name="register-page.css" crc="4150548479" ref="register-page"/>
+  </folder>
+  <folder name="assets">
+    <file name="italian-sweet-pea-risotto.jpg" crc="225329977" seo="true" mt="1574608105000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:login-page:search-results-page:register-page:profile-page"/>
+    <file name="museutils.js" crc="3939489907" ref="index:login-page:search-results-page:register-page:profile-page"/>
+    <file name="whatinput.js" crc="86476730" ref="index:login-page:search-results-page:register-page:profile-page"/>
+    <file name="museconfig.js" crc="128606099" ref="index:login-page:search-results-page:register-page:profile-page"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:login-page:search-results-page:register-page:profile-page"/>
+    <file name="require.js" crc="4177726516" ref="index:login-page:search-results-page:register-page:profile-page"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="search-results-page"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="search-results-page"/>
+    <file name="html5shiv.js" crc="4241844378" ref="search-results-page:register-page:profile-page"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="3804004197" seo="true" ref="index:login-page:search-results-page:register-page:profile-page">
+      <caption webpage="index" alt=""/>
+      <caption webpage="login-page" alt=""/>
+      <caption webpage="search-results-page" alt=""/>
+      <caption webpage="register-page" alt=""/>
+      <caption webpage="profile-page" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:login-page:search-results-page:register-page:profile-page"/>
+    <file name="u263_states.png" crc="312474682" ref="index:login-page:search-results-page:register-page:profile-page"/>
+    <file name="u263_states-r.png" crc="511086386" ref="index:login-page:search-results-page:register-page:profile-page"/>
+    <file name="u275_states.png" crc="533312855" ref="index:login-page:search-results-page:register-page:profile-page"/>
+    <file name="u275_states-r.png" crc="4247231528" ref="index:login-page:search-results-page:register-page:profile-page"/>
+    <file name="u278_states.png" crc="290407674" ref="index:login-page:search-results-page:register-page:profile-page"/>
+    <file name="u278_states-r.png" crc="3814418695" ref="index:login-page:search-results-page:register-page:profile-page"/>
+    <file name="u100-8.png" crc="3896644771" ref="index"/>
+    <file name="u353-8.png" crc="265801520" ref="index"/>
+    <file name="u326-4.png" crc="365791405" ref="index"/>
+    <file name="u329-4.png" crc="3996895131" ref="index"/>
+    <file name="u332-4.png" crc="273396087" ref="index"/>
+    <file name="u335-4.png" crc="469134201" ref="index"/>
+    <file name="u338-4.png" crc="4531256" ref="index"/>
+    <file name="u341-4.png" crc="196025187" ref="index"/>
+    <file name="u347.png" crc="239221031" ref="index"/>
+    <file name="u347-r.png" crc="4060167161" ref="index"/>
+    <file name="u350-4.png" crc="337058420" ref="index"/>
+    <file name="u402-6.png" crc="439942024" ref="index:login-page:search-results-page:register-page:profile-page"/>
+    <file name="u438-10.png" crc="4151822248" ref="login-page"/>
+    <file name="u1633.png" crc="370789397" ref="login-page"/>
+    <file name="u1633-r.png" crc="370789397" ref="login-page"/>
+    <file name="u1639.png" crc="4030736828" ref="login-page"/>
+    <file name="u1639-r.png" crc="4030736828" ref="login-page"/>
+    <file name="u503-6.png" crc="110551842" ref="search-results-page"/>
+    <file name="u676-4.png" crc="522778279" ref="search-results-page"/>
+    <file name="u881-4.png" crc="4249148043" ref="search-results-page"/>
+    <file name="u860-4.png" crc="4078781475" ref="search-results-page"/>
+    <file name="u798-4.png" crc="285057193" ref="search-results-page"/>
+    <file name="u839-4.png" crc="3934192256" ref="search-results-page"/>
+    <file name="u818-4.png" crc="4256374545" ref="search-results-page"/>
+    <file name="u1328-4.png" crc="3883425204" ref="search-results-page"/>
+    <file name="u1335-4.png" crc="3803863927" ref="search-results-page"/>
+    <file name="u1347-4.png" crc="148946048" ref="search-results-page"/>
+    <file name="u1357-4.png" crc="291241814" ref="search-results-page"/>
+    <file name="u1340-4.png" crc="320302119" ref="search-results-page"/>
+    <file name="u1362-4.png" crc="3847067728" ref="search-results-page"/>
+    <file name="u506-4.png" crc="4105447027" ref="search-results-page"/>
+    <file name="u1505_states.png" crc="4045265442" ref="search-results-page"/>
+    <file name="u1505_states-r.png" crc="4045265442" ref="search-results-page"/>
+    <file name="risotto-with-butternut-squash-leeks-and-basil-u1499-fr.jpg" crc="4206132577" ref="search-results-page"/>
+    <file name="u1521_states.png" crc="107566010" ref="search-results-page"/>
+    <file name="u1521_states-r.png" crc="107566010" ref="search-results-page"/>
+    <file name="73213731_754926048290859_8576579262344069120_n.jpg" crc="4290627215" ref="search-results-page">
+      <caption webpage="search-results-page" alt=""/>
+    </file>
+    <file name="u1533_states.png" crc="4285269347" ref="search-results-page"/>
+    <file name="u1533_states-r.png" crc="4285269347" ref="search-results-page"/>
+    <file name="77208891_558233664967299_1123496864050577408_n.jpg" crc="4189330566" ref="search-results-page">
+      <caption webpage="search-results-page" alt=""/>
+    </file>
+    <file name="u1542_states.png" crc="4157050698" ref="search-results-page"/>
+    <file name="u1542_states-r.png" crc="4157050698" ref="search-results-page"/>
+    <file name="75196239_419641822054158_6970862050327134208_n.jpg" crc="307673565" ref="search-results-page">
+      <caption webpage="search-results-page" alt=""/>
+    </file>
+    <file name="u1551_states.png" crc="3990899490" ref="search-results-page"/>
+    <file name="u1551_states-r.png" crc="3990899490" ref="search-results-page"/>
+    <file name="72638934_751606011957278_5028453641783083008_n.jpg" crc="3892741570" ref="search-results-page">
+      <caption webpage="search-results-page" alt=""/>
+    </file>
+    <file name="u441-9.png" crc="503401146" ref="register-page"/>
+    <file name="u1680-4.png" crc="410960163" ref="register-page"/>
+    <file name="u1683-4.png" crc="4021644753" ref="register-page"/>
+    <file name="u1686-4.png" crc="4196021190" ref="register-page"/>
+    <file name="u1692-4.png" crc="4168618923" ref="register-page"/>
+    <file name="u1696.png" crc="4030736828" ref="register-page"/>
+    <file name="u1696-r.png" crc="4030736828" ref="register-page"/>
+    <file name="u1725-4.png" crc="4068957874" ref="profile-page"/>
+  </folder>
+  <file name="index.html" crc="275843941" seo="true" mt="1574609894639" redirect="true"/>
+  <file name="login-page.html" crc="299896483" seo="true" mt="1574611427816" redirect="true"/>
+  <file name="search-results-page.html" crc="3859531976" seo="true" mt="1574611682670" redirect="true"/>
+  <file name="register-page.html" crc="420064439" seo="true" mt="1574611418340" redirect="true"/>
+  <file name="profile-page.html" crc="292955432" seo="true" mt="1574611470931" redirect="true"/>
+</manifest>
