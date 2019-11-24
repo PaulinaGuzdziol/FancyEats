@@ -28,6 +28,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://paulinaguzdziol.github.io/FancyEats/recipe-page.html</loc>
+    <lastmod>2019-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://paulinaguzdziol.github.io/FancyEats/register-page.html</loc>
     <lastmod>2019-11-24</lastmod>
     <changefreq>weekly</changefreq>
