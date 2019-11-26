@@ -1,53 +1,64 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://paulinaguzdziol.github.io/FancyEats" resolutions="1x" timestamp="1574615710488">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://paulinaguzdziol.github.io/FancyEats" resolutions="1x" timestamp="1574808857679">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-wzorcowa.css" crc="3903612603" ref="login-page:search-results-page:profile-page:index:register-page:recipe-page-pancakes:recipe-page-risotto:recipe-page-smoothie:recipe-page-crepes:recipe-page-sushi"/>
-    <file name="login-page.css" crc="4095281216" ref="login-page"/>
-    <file name="search-results-page.css" crc="4171472517" ref="search-results-page"/>
-    <file name="profile-page.css" crc="3834339939" ref="profile-page"/>
-    <file name="index.css" crc="3788620341" ref="index"/>
+    <file name="master_a-wzorcowa.css" crc="3903612603" ref="recipe-page-crepes:register-page:recipe-page-pancakes:index:profile-page:recipe-page-smoothie:recipe-page-sushi:login-page:recipe-page-risotto:search-results-page---vegetarian:search-results-page---vanilla:search-results-page---soup:search-results-page---mexican:search-results-page---rice:search-results-page---burger:search-results-page---italian:search-results-page---asian"/>
+    <file name="recipe-page-crepes.css" crc="178882039" ref="recipe-page-crepes"/>
     <file name="register-page.css" crc="124620899" ref="register-page"/>
-    <file name="recipe-page-pancakes.css" crc="3913282021" ref="recipe-page-pancakes"/>
-    <file name="recipe-page-risotto.css" crc="284134387" ref="recipe-page-risotto"/>
-    <file name="recipe-page-smoothie.css" crc="371335208" ref="recipe-page-smoothie"/>
-    <file name="recipe-page-crepes.css" crc="267200377" ref="recipe-page-crepes"/>
-    <file name="recipe-page-sushi.css" crc="389778522" ref="recipe-page-sushi"/>
-  </folder>
-  <folder name="assets">
-    <file name="italian-sweet-pea-risotto.jpg" crc="225329977" seo="true" mt="1574608105000"/>
+    <file name="recipe-page-pancakes.css" crc="160508645" ref="recipe-page-pancakes"/>
+    <file name="index.css" crc="139600659" ref="index"/>
+    <file name="profile-page.css" crc="3834339939" ref="profile-page"/>
+    <file name="recipe-page-smoothie.css" crc="3920461849" ref="recipe-page-smoothie"/>
+    <file name="recipe-page-sushi.css" crc="3849005994" ref="recipe-page-sushi"/>
+    <file name="login-page.css" crc="4095281216" ref="login-page"/>
+    <file name="recipe-page-risotto.css" crc="3842079295" ref="recipe-page-risotto"/>
+    <file name="search-results-page---vegetarian.css" crc="4171472517" ref="search-results-page---vegetarian"/>
+    <file name="search-results-page---vanilla.css" crc="4167574501" ref="search-results-page---vanilla"/>
+    <file name="search-results-page---soup.css" crc="4292262239" ref="search-results-page---soup"/>
+    <file name="search-results-page---mexican.css" crc="3795320433" ref="search-results-page---mexican"/>
+    <file name="search-results-page---rice.css" crc="4142323626" ref="search-results-page---rice"/>
+    <file name="search-results-page---burger.css" crc="56419414" ref="search-results-page---burger"/>
+    <file name="search-results-page---italian.css" crc="3799190088" ref="search-results-page---italian"/>
+    <file name="search-results-page---asian.css" crc="3795277493" ref="search-results-page---asian"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
-    <file name="museutils.js" crc="3939489907" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
-    <file name="whatinput.js" crc="86476730" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
-    <file name="museconfig.js" crc="128606099" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
-    <file name="require.js" crc="4177726516" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="search-results-page"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="search-results-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
-    <file name="html5shiv.js" crc="4241844378" ref="search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
+    <file name="museutils.js" crc="3939489907" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
+    <file name="whatinput.js" crc="86476730" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
+    <file name="museconfig.js" crc="128606099" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
+    <file name="require.js" crc="4177726516" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---rice:search-results-page---vanilla:search-results-page---asian"/>
+    <file name="html5shiv.js" crc="4241844378" ref="register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
   </folder>
   <folder name="images">
-    <file name="logo.png" crc="3804004197" seo="true" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi">
-      <caption webpage="login-page" alt=""/>
-      <caption webpage="recipe-page-crepes" alt=""/>
-      <caption webpage="register-page" alt=""/>
-      <caption webpage="recipe-page-smoothie" alt=""/>
-      <caption webpage="recipe-page-sushi" alt=""/>
-      <caption webpage="recipe-page-risotto" alt=""/>
+    <file name="logo.png" crc="3804004197" seo="true" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup">
+      <caption webpage="search-results-page---asian" alt=""/>
+      <caption webpage="profile-page" alt=""/>
+      <caption webpage="search-results-page---burger" alt=""/>
+      <caption webpage="search-results-page---rice" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="search-results-page" alt=""/>
-      <caption webpage="recipe-page" alt=""/>
-      <caption webpage="profile-page" alt=""/>
+      <caption webpage="recipe-page-risotto" alt=""/>
+      <caption webpage="recipe-page-crepes" alt=""/>
       <caption webpage="recipe-page-pancakes" alt=""/>
+      <caption webpage="search-results-page---italian" alt=""/>
+      <caption webpage="recipe-page-smoothie" alt=""/>
+      <caption webpage="recipe-page-sushi" alt=""/>
+      <caption webpage="register-page" alt=""/>
+      <caption webpage="search-results-page---vanilla" alt=""/>
+      <caption webpage="search-results-page---mexican" alt=""/>
+      <caption webpage="search-results-page---vegetarian" alt=""/>
+      <caption webpage="login-page" alt=""/>
+      <caption webpage="search-results-page---soup" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
-    <file name="u263_states.png" crc="312474682" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
-    <file name="u263_states-r.png" crc="511086386" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
-    <file name="u275_states.png" crc="533312855" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
-    <file name="u275_states-r.png" crc="4247231528" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
-    <file name="u278_states.png" crc="290407674" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
-    <file name="u278_states-r.png" crc="3814418695" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
+    <file name="blank.gif" crc="4208392903" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
+    <file name="u263_states.png" crc="312474682" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
+    <file name="u263_states-r.png" crc="511086386" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
+    <file name="u275_states.png" crc="533312855" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
+    <file name="u275_states-r.png" crc="4247231528" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
+    <file name="u278_states.png" crc="290407674" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
+    <file name="u278_states-r.png" crc="3814418695" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
     <file name="u100-8.png" crc="3896644771" ref="index"/>
     <file name="u353-8.png" crc="265801520" ref="index"/>
     <file name="u326-4.png" crc="365791405" ref="index"/>
@@ -56,56 +67,42 @@
     <file name="u335-4.png" crc="469134201" ref="index"/>
     <file name="u338-4.png" crc="4531256" ref="index"/>
     <file name="u341-4.png" crc="196025187" ref="index"/>
-    <file name="u347.png" crc="239221031" ref="index"/>
-    <file name="u347-r.png" crc="4060167161" ref="index"/>
     <file name="u350-4.png" crc="337058420" ref="index"/>
-    <file name="u402-6.png" crc="439942024" ref="index:login-page:search-results-page:register-page:profile-page:recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi"/>
+    <file name="u402-6.png" crc="439942024" ref="index:login-page:register-page:recipe-page-risotto:profile-page:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi:search-results-page---vegetarian:search-results-page---mexican:search-results-page---rice:search-results-page---italian:search-results-page---vanilla:search-results-page---asian:search-results-page---burger:search-results-page---soup"/>
     <file name="u438-10.png" crc="4151822248" ref="login-page"/>
     <file name="u1633.png" crc="370789397" ref="login-page"/>
     <file name="u1633-r.png" crc="370789397" ref="login-page"/>
     <file name="u1639.png" crc="4030736828" ref="login-page"/>
     <file name="u1639-r.png" crc="4030736828" ref="login-page"/>
-    <file name="u503-6.png" crc="110551842" ref="search-results-page"/>
-    <file name="u676-4.png" crc="522778279" ref="search-results-page"/>
-    <file name="u881-4.png" crc="4249148043" ref="search-results-page"/>
-    <file name="u860-4.png" crc="4078781475" ref="search-results-page"/>
-    <file name="u798-4.png" crc="285057193" ref="search-results-page"/>
-    <file name="u839-4.png" crc="3934192256" ref="search-results-page"/>
-    <file name="u818-4.png" crc="4256374545" ref="search-results-page"/>
-    <file name="u1328-4.png" crc="3883425204" ref="search-results-page"/>
-    <file name="u1335-4.png" crc="3803863927" ref="search-results-page"/>
-    <file name="u1347-4.png" crc="148946048" ref="search-results-page"/>
-    <file name="u1357-4.png" crc="291241814" ref="search-results-page"/>
-    <file name="u1340-4.png" crc="320302119" ref="search-results-page"/>
-    <file name="u1362-4.png" crc="3847067728" ref="search-results-page"/>
-    <file name="u506-4.png" crc="4105447027" ref="search-results-page"/>
-    <file name="u1505_states.png" crc="4045265442" ref="search-results-page"/>
-    <file name="u1505_states-r.png" crc="4045265442" ref="search-results-page"/>
-    <file name="risotto-with-butternut-squash-leeks-and-basil-u1499-fr.jpg" crc="4206132577" ref="search-results-page"/>
-    <file name="u1521_states.png" crc="107566010" ref="search-results-page"/>
-    <file name="u1521_states-r.png" crc="107566010" ref="search-results-page"/>
-    <file name="73213731_754926048290859_8576579262344069120_n.jpg" crc="253626297" ref="recipe-page-smoothie">
-      <caption webpage="search-results-page" alt=""/>
-      <caption webpage="recipe-page-smoothie" alt=""/>
-    </file>
-    <file name="u1533_states.png" crc="4285269347" ref="search-results-page"/>
-    <file name="u1533_states-r.png" crc="4285269347" ref="search-results-page"/>
-    <file name="77208891_558233664967299_1123496864050577408_n.jpg" crc="4163692525" ref="recipe-page-crepes">
-      <caption webpage="search-results-page" alt=""/>
-      <caption webpage="recipe-page-crepes" alt=""/>
-    </file>
-    <file name="u1542_states.png" crc="4157050698" ref="search-results-page"/>
-    <file name="u1542_states-r.png" crc="4157050698" ref="search-results-page"/>
-    <file name="75196239_419641822054158_6970862050327134208_n.jpg" crc="4093166115" ref="recipe-page-pancakes">
-      <caption webpage="recipe-page-pancakes" alt=""/>
-      <caption webpage="search-results-page" alt=""/>
-    </file>
-    <file name="u1551_states.png" crc="3990899490" ref="search-results-page"/>
-    <file name="u1551_states-r.png" crc="3990899490" ref="search-results-page"/>
-    <file name="72638934_751606011957278_5028453641783083008_n.jpg" crc="84972811" ref="recipe-page-sushi">
-      <caption webpage="search-results-page" alt=""/>
-      <caption webpage="recipe-page-sushi" alt=""/>
-    </file>
+    <file name="u503-6.png" crc="110551842" ref="search-results-page---vegetarian"/>
+    <file name="u676-4.png" crc="522778279" ref="search-results-page---vegetarian"/>
+    <file name="u881-4.png" crc="4249148043" ref="search-results-page---vegetarian"/>
+    <file name="u860-4.png" crc="4078781475" ref="search-results-page---vegetarian"/>
+    <file name="u798-4.png" crc="285057193" ref="search-results-page---vegetarian"/>
+    <file name="u839-4.png" crc="3934192256" ref="search-results-page---vegetarian"/>
+    <file name="u818-4.png" crc="4256374545" ref="search-results-page---vegetarian"/>
+    <file name="u1328-4.png" crc="3883425204" ref="search-results-page---vegetarian"/>
+    <file name="u1335-4.png" crc="3803863927" ref="search-results-page---vegetarian"/>
+    <file name="u1347-4.png" crc="148946048" ref="search-results-page---vegetarian"/>
+    <file name="u1357-4.png" crc="291241814" ref="search-results-page---vegetarian"/>
+    <file name="u1340-4.png" crc="320302119" ref="search-results-page---vegetarian"/>
+    <file name="u1362-4.png" crc="3847067728" ref="search-results-page---vegetarian"/>
+    <file name="u506-4.png" crc="4105447027" ref="search-results-page---vegetarian"/>
+    <file name="u1505_states.png" crc="4045265442" ref="search-results-page---vegetarian"/>
+    <file name="u1505_states-r.png" crc="4045265442" ref="search-results-page---vegetarian"/>
+    <file name="risotto-with-butternut-squash-leeks-and-basil-u1499-fr.jpg" crc="4206132577" ref="search-results-page---vegetarian:search-results-page---rice"/>
+    <file name="u1521_states.png" crc="107566010" ref="search-results-page---vegetarian"/>
+    <file name="u1521_states-r.png" crc="107566010" ref="search-results-page---vegetarian"/>
+    <file name="73213731_754926048290859_8576579262344069120_n-u1522-fr.jpg" crc="237092639" ref="search-results-page---vegetarian:search-results-page---vanilla"/>
+    <file name="u1533_states.png" crc="4285269347" ref="search-results-page---vegetarian"/>
+    <file name="u1533_states-r.png" crc="4285269347" ref="search-results-page---vegetarian"/>
+    <file name="77208891_558233664967299_1123496864050577408_n-u1534-fr.jpg" crc="3987543908" ref="search-results-page---vegetarian"/>
+    <file name="u1542_states.png" crc="4157050698" ref="search-results-page---vegetarian"/>
+    <file name="u1542_states-r.png" crc="4157050698" ref="search-results-page---vegetarian"/>
+    <file name="75196239_419641822054158_6970862050327134208_n-u1543-fr.jpg" crc="128947884" ref="search-results-page---vegetarian:search-results-page---vanilla"/>
+    <file name="u1551_states.png" crc="3990899490" ref="search-results-page---vegetarian"/>
+    <file name="u1551_states-r.png" crc="3990899490" ref="search-results-page---vegetarian"/>
+    <file name="72638934_751606011957278_5028453641783083008_n-u1552-fr.jpg" crc="4260886456" ref="search-results-page---vegetarian:search-results-page---rice:search-results-page---asian"/>
     <file name="u441-9.png" crc="503401146" ref="register-page"/>
     <file name="u1680-4.png" crc="410960163" ref="register-page"/>
     <file name="u1683-4.png" crc="4021644753" ref="register-page"/>
@@ -114,43 +111,221 @@
     <file name="u1696.png" crc="4030736828" ref="register-page"/>
     <file name="u1696-r.png" crc="4030736828" ref="register-page"/>
     <file name="risotto-with-butternut-squash-leeks-and-basil.jpg" crc="530748127" ref="recipe-page-risotto">
-      <caption webpage="recipe-page" alt=""/>
       <caption webpage="recipe-page-risotto" alt=""/>
     </file>
     <file name="u1477-4.png" crc="247842502" ref="recipe-page-risotto"/>
+    <file name="fb logo.png" crc="383585065" seo="true" ref="recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi">
+      <caption webpage="recipe-page-smoothie" alt=""/>
+      <caption webpage="recipe-page-risotto" alt=""/>
+      <caption webpage="recipe-page-crepes" alt=""/>
+      <caption webpage="recipe-page-sushi" alt=""/>
+      <caption webpage="recipe-page-pancakes" alt=""/>
+    </file>
+    <file name="instagram_logo.jpg" crc="3932268117" seo="true" ref="recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi">
+      <caption webpage="recipe-page-smoothie" alt=""/>
+      <caption webpage="recipe-page-risotto" alt=""/>
+      <caption webpage="recipe-page-crepes" alt=""/>
+      <caption webpage="recipe-page-sushi" alt=""/>
+      <caption webpage="recipe-page-pancakes" alt=""/>
+    </file>
+    <file name="pint.png" crc="103627871" seo="true" ref="recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi">
+      <caption webpage="recipe-page-smoothie" alt=""/>
+      <caption webpage="recipe-page-risotto" alt=""/>
+      <caption webpage="recipe-page-crepes" alt=""/>
+      <caption webpage="recipe-page-sushi" alt=""/>
+      <caption webpage="recipe-page-pancakes" alt=""/>
+    </file>
     <file name="u1493-4.png" crc="4225746100" ref="recipe-page-risotto"/>
     <file name="u1496-4.png" crc="3983658581" ref="recipe-page-risotto"/>
     <file name="u1602-4.png" crc="4240203004" ref="recipe-page-risotto"/>
     <file name="u1725-4.png" crc="4068957874" ref="profile-page"/>
-    <file name="73213731_754926048290859_8576579262344069120_n-u1522-fr.jpg" crc="237092639" ref="search-results-page"/>
-    <file name="77208891_558233664967299_1123496864050577408_n-u1534-fr.jpg" crc="3987543908" ref="search-results-page"/>
-    <file name="75196239_419641822054158_6970862050327134208_n-u1543-fr.jpg" crc="128947884" ref="search-results-page"/>
-    <file name="72638934_751606011957278_5028453641783083008_n-u1552-fr.jpg" crc="4260886456" ref="search-results-page"/>
+    <file name="75196239_419641822054158_6970862050327134208_n.jpg" crc="4093166115" ref="recipe-page-pancakes">
+      <caption webpage="recipe-page-pancakes" alt=""/>
+    </file>
     <file name="u1907-4.png" crc="51255524" ref="recipe-page-pancakes"/>
     <file name="u1910-4.png" crc="4225746100" ref="recipe-page-pancakes"/>
     <file name="u1911-4.png" crc="3983658581" ref="recipe-page-pancakes"/>
     <file name="u1913-4.png" crc="4240203004" ref="recipe-page-pancakes"/>
+    <file name="77208891_558233664967299_1123496864050577408_n.jpg" crc="4163692525" ref="recipe-page-crepes">
+      <caption webpage="recipe-page-crepes" alt=""/>
+    </file>
     <file name="u1866-4.png" crc="4115302988" ref="recipe-page-crepes"/>
     <file name="u1869-4.png" crc="4225746100" ref="recipe-page-crepes"/>
     <file name="u1870-4.png" crc="3983658581" ref="recipe-page-crepes"/>
     <file name="u1872-4.png" crc="4240203004" ref="recipe-page-crepes"/>
+    <file name="73213731_754926048290859_8576579262344069120_n.jpg" crc="253626297" ref="recipe-page-smoothie">
+      <caption webpage="recipe-page-smoothie" alt=""/>
+    </file>
     <file name="u1825-4.png" crc="371152978" ref="recipe-page-smoothie"/>
     <file name="u1828-4.png" crc="62369827" ref="recipe-page-smoothie"/>
     <file name="u1829-4.png" crc="3983658581" ref="recipe-page-smoothie"/>
     <file name="u1831-4.png" crc="4240203004" ref="recipe-page-smoothie"/>
-    <file name="u1948-4.png" crc="3848188411" ref="recipe-page-sushi"/>
+    <file name="72638934_751606011957278_5028453641783083008_n.jpg" crc="84972811" ref="recipe-page-sushi">
+      <caption webpage="recipe-page-sushi" alt=""/>
+    </file>
+    <file name="u1948-4.png" crc="3924492074" ref="recipe-page-sushi"/>
     <file name="u1951-4.png" crc="4225746100" ref="recipe-page-sushi"/>
     <file name="u1952-4.png" crc="3983658581" ref="recipe-page-sushi"/>
     <file name="u1954-4.png" crc="4240203004" ref="recipe-page-sushi"/>
+    <file name="u347_states.png" crc="239221031" ref="index"/>
+    <file name="u347_states-r.png" crc="4060167161" ref="index"/>
+    <file name="wklejony obraz 233 × 216.jpg" crc="3841845398" seo="true" ref="recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi">
+      <caption webpage="recipe-page-smoothie" alt=""/>
+      <caption webpage="recipe-page-risotto" alt=""/>
+      <caption webpage="recipe-page-crepes" alt=""/>
+      <caption webpage="recipe-page-sushi" alt=""/>
+      <caption webpage="recipe-page-pancakes" alt=""/>
+    </file>
+    <file name="wklejony obraz 225 × 225.jpg" crc="443689613" seo="true" ref="recipe-page-risotto:recipe-page-pancakes:recipe-page-crepes:recipe-page-smoothie:recipe-page-sushi">
+      <caption webpage="recipe-page-smoothie" alt=""/>
+      <caption webpage="recipe-page-risotto" alt=""/>
+      <caption webpage="recipe-page-crepes" alt=""/>
+      <caption webpage="recipe-page-sushi" alt=""/>
+      <caption webpage="recipe-page-pancakes" alt=""/>
+    </file>
+    <file name="u2171.png" crc="10678323" ref="recipe-page-risotto"/>
+    <file name="u2171-r.png" crc="491710286" ref="recipe-page-risotto"/>
+    <file name="u2174-4.png" crc="129139271" ref="recipe-page-risotto"/>
+    <file name="u2218.png" crc="10678323" ref="recipe-page-pancakes"/>
+    <file name="u2218-r.png" crc="491710286" ref="recipe-page-pancakes"/>
+    <file name="u2219-4.png" crc="129139271" ref="recipe-page-pancakes"/>
+    <file name="u2205.png" crc="10678323" ref="recipe-page-crepes"/>
+    <file name="u2205-r.png" crc="491710286" ref="recipe-page-crepes"/>
+    <file name="u2206-4.png" crc="129139271" ref="recipe-page-crepes"/>
+    <file name="u2192.png" crc="10678323" ref="recipe-page-smoothie"/>
+    <file name="u2192-r.png" crc="491710286" ref="recipe-page-smoothie"/>
+    <file name="u2193-4.png" crc="129139271" ref="recipe-page-smoothie"/>
+    <file name="u2231.png" crc="10678323" ref="recipe-page-sushi"/>
+    <file name="u2231-r.png" crc="491710286" ref="recipe-page-sushi"/>
+    <file name="u2232-4.png" crc="129139271" ref="recipe-page-sushi"/>
+    <file name="u3117-6.png" crc="77167819" ref="search-results-page---mexican"/>
+    <file name="u3071-4.png" crc="522778279" ref="search-results-page---mexican"/>
+    <file name="u3065-4.png" crc="4249148043" ref="search-results-page---mexican"/>
+    <file name="u3058-4.png" crc="4078781475" ref="search-results-page---mexican"/>
+    <file name="u3039-4.png" crc="285057193" ref="search-results-page---mexican"/>
+    <file name="u3051-4.png" crc="3934192256" ref="search-results-page---mexican"/>
+    <file name="u3045-4.png" crc="4256374545" ref="search-results-page---mexican"/>
+    <file name="u3115-4.png" crc="3883425204" ref="search-results-page---mexican"/>
+    <file name="u3098-4.png" crc="3803863927" ref="search-results-page---mexican"/>
+    <file name="u3087-4.png" crc="148946048" ref="search-results-page---mexican"/>
+    <file name="u3108-4.png" crc="291241814" ref="search-results-page---mexican"/>
+    <file name="u3105-4.png" crc="320302119" ref="search-results-page---mexican"/>
+    <file name="u3080-4.png" crc="3847067728" ref="search-results-page---mexican"/>
+    <file name="u3118-4.png" crc="4105447027" ref="search-results-page---mexican"/>
+    <file name="u3119-4.png" crc="4064365705" ref="search-results-page---mexican"/>
+    <file name="u2808-6.png" crc="4096719787" ref="search-results-page---rice"/>
+    <file name="u2726-4.png" crc="522778279" ref="search-results-page---rice"/>
+    <file name="u2742-4.png" crc="4249148043" ref="search-results-page---rice"/>
+    <file name="u2748-4.png" crc="4078781475" ref="search-results-page---rice"/>
+    <file name="u2757-4.png" crc="285057193" ref="search-results-page---rice"/>
+    <file name="u2732-4.png" crc="3934192256" ref="search-results-page---rice"/>
+    <file name="u2764-4.png" crc="4256374545" ref="search-results-page---rice"/>
+    <file name="u2807-4.png" crc="3883425204" ref="search-results-page---rice"/>
+    <file name="u2779-4.png" crc="3803863927" ref="search-results-page---rice"/>
+    <file name="u2789-4.png" crc="148946048" ref="search-results-page---rice"/>
+    <file name="u2801-4.png" crc="291241814" ref="search-results-page---rice"/>
+    <file name="u2794-4.png" crc="320302119" ref="search-results-page---rice"/>
+    <file name="u2775-4.png" crc="3847067728" ref="search-results-page---rice"/>
+    <file name="u2809-4.png" crc="4105447027" ref="search-results-page---rice"/>
+    <file name="u2812_states.png" crc="4045265442" ref="search-results-page---rice"/>
+    <file name="u2812_states-r.png" crc="4045265442" ref="search-results-page---rice"/>
+    <file name="u2821_states.png" crc="3990899490" ref="search-results-page---rice"/>
+    <file name="u2821_states-r.png" crc="3990899490" ref="search-results-page---rice"/>
+    <file name="u2496-6.png" crc="4252385708" ref="search-results-page---italian"/>
+    <file name="u2414-4.png" crc="522778279" ref="search-results-page---italian"/>
+    <file name="u2430-4.png" crc="4249148043" ref="search-results-page---italian"/>
+    <file name="u2436-4.png" crc="4078781475" ref="search-results-page---italian"/>
+    <file name="u2445-4.png" crc="285057193" ref="search-results-page---italian"/>
+    <file name="u2420-4.png" crc="3934192256" ref="search-results-page---italian"/>
+    <file name="u2452-4.png" crc="4256374545" ref="search-results-page---italian"/>
+    <file name="u2495-4.png" crc="3883425204" ref="search-results-page---italian"/>
+    <file name="u2467-4.png" crc="3803863927" ref="search-results-page---italian"/>
+    <file name="u2477-4.png" crc="148946048" ref="search-results-page---italian"/>
+    <file name="u2489-4.png" crc="291241814" ref="search-results-page---italian"/>
+    <file name="u2482-4.png" crc="320302119" ref="search-results-page---italian"/>
+    <file name="u2463-4.png" crc="3847067728" ref="search-results-page---italian"/>
+    <file name="u2497-4.png" crc="4105447027" ref="search-results-page---italian"/>
+    <file name="u2719-4.png" crc="4064365705" ref="search-results-page---italian"/>
+    <file name="u3384-6.png" crc="20903286" ref="search-results-page---vanilla"/>
+    <file name="u3302-4.png" crc="522778279" ref="search-results-page---vanilla"/>
+    <file name="u3318-4.png" crc="4249148043" ref="search-results-page---vanilla"/>
+    <file name="u3324-4.png" crc="4078781475" ref="search-results-page---vanilla"/>
+    <file name="u3333-4.png" crc="285057193" ref="search-results-page---vanilla"/>
+    <file name="u3308-4.png" crc="3934192256" ref="search-results-page---vanilla"/>
+    <file name="u3340-4.png" crc="4256374545" ref="search-results-page---vanilla"/>
+    <file name="u3383-4.png" crc="3883425204" ref="search-results-page---vanilla"/>
+    <file name="u3355-4.png" crc="3803863927" ref="search-results-page---vanilla"/>
+    <file name="u3365-4.png" crc="148946048" ref="search-results-page---vanilla"/>
+    <file name="u3377-4.png" crc="291241814" ref="search-results-page---vanilla"/>
+    <file name="u3370-4.png" crc="320302119" ref="search-results-page---vanilla"/>
+    <file name="u3351-4.png" crc="3847067728" ref="search-results-page---vanilla"/>
+    <file name="u3385-4.png" crc="4105447027" ref="search-results-page---vanilla"/>
+    <file name="u3399_states.png" crc="4157050698" ref="search-results-page---vanilla"/>
+    <file name="u3399_states-r.png" crc="4157050698" ref="search-results-page---vanilla"/>
+    <file name="u3390_states.png" crc="107566010" ref="search-results-page---vanilla"/>
+    <file name="u3390_states-r.png" crc="107566010" ref="search-results-page---vanilla"/>
+    <file name="u3693-6.png" crc="455065269" ref="search-results-page---asian"/>
+    <file name="u3611-4.png" crc="522778279" ref="search-results-page---asian"/>
+    <file name="u3627-4.png" crc="4249148043" ref="search-results-page---asian"/>
+    <file name="u3633-4.png" crc="4078781475" ref="search-results-page---asian"/>
+    <file name="u3642-4.png" crc="285057193" ref="search-results-page---asian"/>
+    <file name="u3617-4.png" crc="3934192256" ref="search-results-page---asian"/>
+    <file name="u3649-4.png" crc="4256374545" ref="search-results-page---asian"/>
+    <file name="u3692-4.png" crc="3883425204" ref="search-results-page---asian"/>
+    <file name="u3664-4.png" crc="3803863927" ref="search-results-page---asian"/>
+    <file name="u3674-4.png" crc="148946048" ref="search-results-page---asian"/>
+    <file name="u3686-4.png" crc="291241814" ref="search-results-page---asian"/>
+    <file name="u3679-4.png" crc="320302119" ref="search-results-page---asian"/>
+    <file name="u3660-4.png" crc="3847067728" ref="search-results-page---asian"/>
+    <file name="u3694-4.png" crc="4105447027" ref="search-results-page---asian"/>
+    <file name="u3706_states.png" crc="3990899490" ref="search-results-page---asian"/>
+    <file name="u3706_states-r.png" crc="3990899490" ref="search-results-page---asian"/>
+    <file name="u4311-6.png" crc="4031964861" ref="search-results-page---burger"/>
+    <file name="u4230-4.png" crc="522778279" ref="search-results-page---burger"/>
+    <file name="u4260-4.png" crc="4249148043" ref="search-results-page---burger"/>
+    <file name="u4237-4.png" crc="4078781475" ref="search-results-page---burger"/>
+    <file name="u4242-4.png" crc="285057193" ref="search-results-page---burger"/>
+    <file name="u4265-4.png" crc="3934192256" ref="search-results-page---burger"/>
+    <file name="u4249-4.png" crc="4256374545" ref="search-results-page---burger"/>
+    <file name="u4309-4.png" crc="3883425204" ref="search-results-page---burger"/>
+    <file name="u4282-4.png" crc="3803863927" ref="search-results-page---burger"/>
+    <file name="u4288-4.png" crc="148946048" ref="search-results-page---burger"/>
+    <file name="u4299-4.png" crc="291241814" ref="search-results-page---burger"/>
+    <file name="u4302-4.png" crc="320302119" ref="search-results-page---burger"/>
+    <file name="u4276-4.png" crc="3847067728" ref="search-results-page---burger"/>
+    <file name="u4312-4.png" crc="4105447027" ref="search-results-page---burger"/>
+    <file name="u4313-4.png" crc="4064365705" ref="search-results-page---burger"/>
+    <file name="u4578-6.png" crc="4107633594" ref="search-results-page---soup"/>
+    <file name="u4497-4.png" crc="522778279" ref="search-results-page---soup"/>
+    <file name="u4527-4.png" crc="4249148043" ref="search-results-page---soup"/>
+    <file name="u4504-4.png" crc="4078781475" ref="search-results-page---soup"/>
+    <file name="u4509-4.png" crc="285057193" ref="search-results-page---soup"/>
+    <file name="u4532-4.png" crc="3934192256" ref="search-results-page---soup"/>
+    <file name="u4516-4.png" crc="4256374545" ref="search-results-page---soup"/>
+    <file name="u4576-4.png" crc="3883425204" ref="search-results-page---soup"/>
+    <file name="u4549-4.png" crc="3803863927" ref="search-results-page---soup"/>
+    <file name="u4555-4.png" crc="148946048" ref="search-results-page---soup"/>
+    <file name="u4566-4.png" crc="291241814" ref="search-results-page---soup"/>
+    <file name="u4569-4.png" crc="320302119" ref="search-results-page---soup"/>
+    <file name="u4543-4.png" crc="3847067728" ref="search-results-page---soup"/>
+    <file name="u4579-4.png" crc="4105447027" ref="search-results-page---soup"/>
+    <file name="u4580-4.png" crc="4064365705" ref="search-results-page---soup"/>
   </folder>
-  <file name="index.html" crc="455968720" seo="true" mt="1574615686413" redirect="true"/>
+  <file name="index.html" crc="3817699988" seo="true" mt="1574808167527" redirect="true"/>
   <file name="login-page.html" crc="376015130" seo="true" mt="1574615686413" redirect="true"/>
-  <file name="search-results-page.html" crc="273569406" seo="true" mt="1574615706816" redirect="true"/>
   <file name="register-page.html" crc="3905031312" seo="true" mt="1574615686413" redirect="true"/>
+  <file name="recipe-page-risotto.html" crc="353700724" seo="true" mt="1574807437872" redirect="true"/>
   <file name="profile-page.html" crc="3992098005" seo="true" mt="1574615686413" redirect="true"/>
-  <file name="recipe-page-risotto.html" crc="3784337348" seo="true" mt="1574615686413" redirect="true"/>
-  <file name="recipe-page-pancakes.html" crc="3770967141" seo="true" mt="1574615706483" redirect="true"/>
-  <file name="recipe-page-crepes.html" crc="198084900" seo="true" mt="1574615706814" redirect="true"/>
-  <file name="recipe-page-smoothie.html" crc="296749369" seo="true" mt="1574615706344" redirect="true"/>
-  <file name="recipe-page-sushi.html" crc="88999122" seo="true" mt="1574615706659" redirect="true"/>
+  <file name="recipe-page-pancakes.html" crc="3864830341" seo="true" mt="1574808648615" redirect="true"/>
+  <file name="recipe-page-crepes.html" crc="289848971" seo="true" mt="1574808648923" redirect="true"/>
+  <file name="recipe-page-smoothie.html" crc="106734300" seo="true" mt="1574808648482" redirect="true"/>
+  <file name="recipe-page-sushi.html" crc="4108236331" seo="true" mt="1574808648773" redirect="true"/>
+  <file name="search-results-page---vegetarian.html" crc="4134224476" seo="true" mt="1574808648925" redirect="true"/>
+  <file name="search-results-page---mexican.html" crc="4131386779" seo="true" mt="1574807989315" redirect="true"/>
+  <file name="search-results-page---rice.html" crc="3974127446" seo="true" mt="1574808648771" redirect="true"/>
+  <file name="search-results-page---italian.html" crc="3866155420" seo="true" mt="1574807911889" redirect="true"/>
+  <file name="search-results-page---vanilla.html" crc="4110922154" seo="true" mt="1574808648613" redirect="true"/>
+  <file name="search-results-page---asian.html" crc="361218289" seo="true" mt="1574808648772" redirect="true"/>
+  <file name="search-results-page---burger.html" crc="3855984145" seo="true" mt="1574808108023" redirect="true"/>
+  <file name="search-results-page---soup.html" crc="4250317365" seo="true" mt="1574808133315" redirect="true"/>
 </manifest>

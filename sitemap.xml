@@ -2,16 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://paulinaguzdziol.github.io/FancyEats/index.html</loc>
-    <lastmod>2019-11-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://paulinaguzdziol.github.io/FancyEats/profile-page.html</loc>
-    <lastmod>2019-11-24</lastmod>
+    <lastmod>2019-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -20,15 +11,6 @@
   </url>
   <url>
     <loc>https://paulinaguzdziol.github.io/FancyEats/login-page.html</loc>
-    <lastmod>2019-11-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://paulinaguzdziol.github.io/FancyEats/search-results-page.html</loc>
     <lastmod>2019-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -46,16 +28,31 @@
     </image:image>
   </url>
   <url>
-    <loc>https://paulinaguzdziol.github.io/FancyEats/recipe-page-crepes.html</loc>
-    <lastmod>2019-11-24</lastmod>
+    <loc>https://paulinaguzdziol.github.io/FancyEats/recipe-page-risotto.html</loc>
+    <lastmod>2019-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/fb%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/instagram_logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/pint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/wklejony%20obraz%20233%20%C3%97%20216.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/wklejony%20obraz%20225%20%C3%97%20225.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>https://paulinaguzdziol.github.io/FancyEats/recipe-page-risotto.html</loc>
+    <loc>https://paulinaguzdziol.github.io/FancyEats/profile-page.html</loc>
     <lastmod>2019-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -65,25 +62,103 @@
   </url>
   <url>
     <loc>https://paulinaguzdziol.github.io/FancyEats/recipe-page-pancakes.html</loc>
-    <lastmod>2019-11-24</lastmod>
+    <lastmod>2019-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/fb%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/instagram_logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/pint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/wklejony%20obraz%20233%20%C3%97%20216.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/wklejony%20obraz%20225%20%C3%97%20225.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://paulinaguzdziol.github.io/FancyEats/recipe-page-crepes.html</loc>
+    <lastmod>2019-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/fb%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/instagram_logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/pint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/wklejony%20obraz%20233%20%C3%97%20216.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/wklejony%20obraz%20225%20%C3%97%20225.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://paulinaguzdziol.github.io/FancyEats/recipe-page-smoothie.html</loc>
-    <lastmod>2019-11-24</lastmod>
+    <lastmod>2019-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/fb%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/instagram_logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/pint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/wklejony%20obraz%20233%20%C3%97%20216.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/wklejony%20obraz%20225%20%C3%97%20225.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://paulinaguzdziol.github.io/FancyEats/recipe-page-sushi.html</loc>
-    <lastmod>2019-11-24</lastmod>
+    <lastmod>2019-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/fb%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/instagram_logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/pint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/wklejony%20obraz%20233%20%C3%97%20216.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/wklejony%20obraz%20225%20%C3%97%20225.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://paulinaguzdziol.github.io/FancyEats/search-results-page---vegetarian.html</loc>
+    <lastmod>2019-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -91,9 +166,66 @@
     </image:image>
   </url>
   <url>
-    <loc>https://paulinaguzdziol.github.io/FancyEats/assets/italian-sweet-pea-risotto.jpg</loc>
-    <lastmod>2019-11-24</lastmod>
+    <loc>https://paulinaguzdziol.github.io/FancyEats/search-results-page---mexican.html</loc>
+    <lastmod>2019-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://paulinaguzdziol.github.io/FancyEats/search-results-page---rice.html</loc>
+    <lastmod>2019-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://paulinaguzdziol.github.io/FancyEats/search-results-page---italian.html</loc>
+    <lastmod>2019-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://paulinaguzdziol.github.io/FancyEats/search-results-page---vanilla.html</loc>
+    <lastmod>2019-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://paulinaguzdziol.github.io/FancyEats/search-results-page---asian.html</loc>
+    <lastmod>2019-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://paulinaguzdziol.github.io/FancyEats/search-results-page---burger.html</loc>
+    <lastmod>2019-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://paulinaguzdziol.github.io/FancyEats/search-results-page---soup.html</loc>
+    <lastmod>2019-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://paulinaguzdziol.github.io/FancyEats/images/logo.png</image:loc>
+    </image:image>
   </url>
 </urlset>
